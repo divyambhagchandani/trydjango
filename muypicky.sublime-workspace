@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"stomu"
+			],
+			[
+				"m",
+				"motu"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"e",
+				"enteredMessage"
+			],
+			[
+				"me",
+				"means"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"tem",
+				"temp2"
+			],
+			[
+				"mer",
+				"merg"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"f",
+				"fflag"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"ch",
+				"chess"
+			],
+			[
+				"c",
+				"chess"
+			],
+			[
+				"che",
+				"chess"
+			],
+			[
+				"w",
+				"we"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"te",
+				"temp1"
+			],
+			[
+				"ve",
+				"verify"
+			],
+			[
+				"ur",
+				"urllib2"
+			],
+			[
+				"iarr",
+				"iarr2"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"irr",
+				"iarr1"
+			],
+			[
+				"ia",
+				"iarr1"
+			],
+			[
+				"ar",
+				"arr1"
+			],
+			[
+				"iar",
+				"iarr2"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"LL",
+				"LLVM_DIR"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"it",
+				"itemsRead"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"M8",
+				"M8"
+			],
+			[
+				"M",
+				"M1"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"P",
+				"Pt1"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"R",
+				"RollNo"
+			],
+			[
+				"cl",
+				"color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"B",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tr",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"q",
+				"Q"
+			],
+			[
+				"wo",
+				"word_list"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"im",
+				"image2"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"ex",
+				"expiswap"
+			],
+			[
+				"sw",
+				"Swaps"
+			],
+			[
+				"A",
+				"Avg"
+			],
+			[
+				"com",
+				"Comparsions"
+			],
+			[
+				"ra",
+				"rang"
+			],
+			[
+				"ro",
+				"rows2"
+			],
+			[
+				"row",
+				"rows1"
+			],
+			[
+				"od",
+				"odd1"
+			],
+			[
+				"ev",
+				"even2"
+			],
+			[
+				"fla",
+				"flag2"
+			],
+			[
+				"odd",
+				"odd1"
+			],
+			[
+				"eve",
+				"even1"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"Cl",
+				"click-me"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"coun",
+				"counter-element"
+			],
+			[
+				"fro",
+				"fornt"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"lit",
+				"lit2"
+			],
+			[
+				"gam",
+				"game"
+			],
+			[
+				"pla",
+				"player1"
+			],
+			[
+				"val",
+				"validmove"
+			],
+			[
+				"ga",
+				"game3"
+			],
+			[
+				"va",
+				"validBoard"
+			],
+			[
+				"ti",
+				"tile1"
+			],
+			[
+				"take",
+				"takeNaiveMove"
+			],
+			[
+				"ta",
+				"takeNaiveMove"
+			],
+			[
+				"til",
+				"tile5"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"side",
+				"side"
+			],
+			[
+				"range",
+				"rangeR"
+			],
+			[
+				"T",
+				"Texas"
+			],
+			[
+				"weath",
+				"weather_response"
+			],
+			[
+				"get",
+				"get_sealevel"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"fut",
+				"fuDate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/divyambhagchandani/dev2/trydjango"
+	],
+	"file_history":
+	[
+		"/Users/divyambhagchandani/nano.save",
+		"/Users/divyambhagchandani/java.log.501",
+		"/Users/divyambhagchandani/Desktop/CP1/CC_LC_May_2018/XORAGN.py",
+		"/Users/divyambhagchandani/Desktop/CP1/CC_LC_May_2018/MTYFRI.py",
+		"/Users/divyambhagchandani/Desktop/CP1/CC_LC_May_2018/MTYFRI2.py",
+		"/Users/divyambhagchandani/Desktop/CP1/CC_LC_May_2018/check.py",
+		"/Users/divyambhagchandani/Desktop/CP1/CC_LC_May_2018/RD19.py",
+		"/Users/divyambhagchandani/Desktop/djangotut/venv/bin/activate",
+		"/Users/divyambhagchandani/go/login.py",
+		"/Users/divyambhagchandani/go/login.go",
+		"/Users/divyambhagchandani/Desktop/lol.py",
+		"/Users/divyambhagchandani/Downloads/Brooklyn Nine Nine - 5x12 - Safe House.HDTV.AVS-SVA.en.srt",
+		"/Users/divyambhagchandani/Downloads/Brooklyn Nine Nine - 5x12 - Safe House.HDTV.AVS-SVA.en 2.srt",
+		"/Users/divyambhagchandani/Desktop/ied",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-3.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monkst-3.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-2.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monkst-2.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-1.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monkst-1.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-1.test",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-2.test",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks-2.train",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balloons_Data_Set/yellow-small+adult-stretch.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balloons_Data_Set/yellow-small.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balloons_Data_Set/adult+stretch.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balloons_Data_Set/adult-stretch.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/shuttle-landing-control/shuttle-landing-control.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/shuttle-landing-control/shuttle-landing-control.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Chess (King-Rook vs. King-Pawn) Data Set /kr-vs-kp.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/Chess (King-Rook vs. King-Pawn) Data Set /kr-vs-kp.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/car/car.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/car/car.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/lymphography/lymphography.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/lymphography/lymphography.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/ Hayes-Roth Data Set /hayes-roth.test",
+		"/Users/divyambhagchandani/Desktop/Assignment/ Hayes-Roth Data Set /hayes-roth.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/ Hayes-Roth Data Set /hayes-roth.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balloons_Data_Set/balloons.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/lymphography/lymphography-data.txt",
+		"/Users/divyambhagchandani/Desktop/Assignment/Lenses Data Set /lenses.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/Lenses Data Set /lenses.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balance_scale/balance-scale.names",
+		"/Users/divyambhagchandani/Desktop/Assignment/Balance_scale/balance-scale.data",
+		"/Users/divyambhagchandani/Desktop/Assignment/monks-problems/monks.names",
+		"/Users/divyambhagchandani/Desktop/CP/A2oj_ladder/div2_C/1.py",
+		"/Users/divyambhagchandani/Desktop/CP/A2oj_ladder/2.py",
+		"/Users/divyambhagchandani/Desktop/CP/A2oj_ladder/1.py",
+		"/Users/divyambhagchandani/Desktop/a1.py",
+		"/Users/divyambhagchandani/Desktop/lol.cpp",
+		"/Users/divyambhagchandani/Desktop/lc1.py",
+		"/Users/divyambhagchandani/Desktop/C++/LC-April_challange/CHEFWORK.cpp",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/YouTube/history/search-history.html",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/+1s/+1s.html",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/Mail/All mail Including Spam and Trash.mbox",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/Search Contributions/Thumbs.json",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/Profile/Divyam Bhagchandani.json",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/Location History/Location History.json",
+		"/Users/divyambhagchandani/Downloads/Takeout 2/Chrome/BrowserHistory.json",
+		"/Users/divyambhagchandani/Downloads/Snek/snakememe.html",
+		"/Users/divyambhagchandani/Downloads/Snek/snake.js",
+		"/Users/divyambhagchandani/Downloads/resume 2/untitled.tex",
+		"/Users/divyambhagchandani/Downloads/Takeout/Location History/Location History.json",
+		"/Users/divyambhagchandani/Downloads/Takeout/Chrome/SearchEngines.json",
+		"/Users/divyambhagchandani/Downloads/Takeout/Chrome/BrowserHistory.json",
+		"/Users/divyambhagchandani/Desktop/bfs.java",
+		"/Users/divyambhagchandani/Desktop/Chome_ext/bc.js",
+		"/Users/divyambhagchandani/Desktop/Chome_ext/background.js",
+		"/Users/divyambhagchandani/Desktop/Chome_ext/manifest.json",
+		"/Users/divyambhagchandani/Downloads/metaio_1.1/DirectShowLib-2005.dll",
+		"/Users/divyambhagchandani/Downloads/metaio_1.1/AsSource (metaio) help.v4p",
+		"/Users/divyambhagchandani/Desktop/easy.java",
+		"/Users/divyambhagchandani/Desktop/Hacknite/index.html",
+		"/Users/divyambhagchandani/Desktop/Hacknite/js/main.js",
+		"/Users/divyambhagchandani/Downloads/pagerank/force.css",
+		"/Users/divyambhagchandani/Downloads/pagerank/force.html",
+		"/Users/divyambhagchandani/Downloads/pagerank/force.js",
+		"/Users/divyambhagchandani/Desktop/ilogin.sh",
+		"/Users/divyambhagchandani/Desktop/login.py",
+		"/Users/divyambhagchandani/Desktop/vue-intro-session-dictionary-app/index.html",
+		"/Users/divyambhagchandani/Desktop/vue-intro-session-dictionary-app/js/main.js",
+		"/Users/divyambhagchandani/Desktop/Hacknite/main.js",
+		"/Users/divyambhagchandani/Desktop/tm",
+		"/Users/divyambhagchandani/Desktop/classroom.txt",
+		"/Users/divyambhagchandani/Desktop/ctrss",
+		"/Users/divyambhagchandani/Desktop/drupal/core/assets/vendor/jquery/jquery.min.map",
+		"/Users/divyambhagchandani/Desktop/C++/vectors.cpp",
+		"/Users/divyambhagchandani/Desktop/bst.java",
+		"/Users/divyambhagchandani/Desktop/CP/CC_March_long_challange/xxor.py",
+		"/Users/divyambhagchandani/Desktop/lab7.java",
+		"/Users/divyambhagchandani/Desktop/so.java",
+		"/Users/divyambhagchandani/Desktop/CP/CC_March_long_challange/MIXCOLOR.py",
+		"/Users/divyambhagchandani/Documents/MATLAB/Facebook metrics /matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Solar Flare/flare.data2",
+		"/Users/divyambhagchandani/Desktop/CP/CC_March_long_challange/CHEGLOVE.py",
+		"/Users/divyambhagchandani/Documents/MATLAB/Solar Flare/flare.data1",
+		"/Users/divyambhagchandani/Desktop/CP/partition.py",
+		"/Users/divyambhagchandani/Documents/MATLAB/Facebook metrics/dataset_Facebook.csv",
+		"/Users/divyambhagchandani/Documents/MATLAB/Facebook metrics/Facebook_metrics.txt",
+		"/Users/divyambhagchandani/Documents/MATLAB/Forest Fires/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Forest Fires/forestfires.csv",
+		"/Users/divyambhagchandani/Documents/MATLAB/Computer Hardware/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Concrete Compressive Strength/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Computer Hardware/machine.names",
+		"/Users/divyambhagchandani/Documents/MATLAB/Computer Hardware/machine.data",
+		"/Users/divyambhagchandani/Documents/MATLAB/Combined Cycle Power Plant/Combined_Cycle_Power_Plant.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Yacht Hydrodynamics/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Computer Hardware/Index (1).txt",
+		"/Users/divyambhagchandani/Documents/MATLAB/Solar Flare/flare.names",
+		"/Users/divyambhagchandani/Documents/MATLAB/Concrete Slump/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Solar Flare/matlab.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Forest Fires/forestfires.names",
+		"/Users/divyambhagchandani/Documents/MATLAB/airfoil/airfoil_self_noise.m",
+		"/Users/divyambhagchandani/Documents/MATLAB/Yacht Hydrodynamics/yacht_hydrodynamics.data",
+		"/Users/divyambhagchandani/Documents/MATLAB/Concrete Slump/slump_test.data",
+		"/Users/divyambhagchandani/Documents/MATLAB/Concrete Compressive Strength/Concrete_Data.xls",
+		"/Users/divyambhagchandani/Documents/MATLAB/airfoil_self_noise.dat",
+		"/Users/divyambhagchandani/Downloads/s0010_re.dat",
+		"/Users/divyambhagchandani/Desktop/Prob/STPAR.py",
+		"/Users/divyambhagchandani/Desktop/save.py",
+		"/Users/divyambhagchandani/Desktop/C++/JNEXT.py",
+		"/Users/divyambhagchandani/Desktop/CP/JNEXT.cpp",
+		"/Users/divyambhagchandani/Desktop/queens.py",
+		"/Users/divyambhagchandani/Downloads/Summation.nb",
+		"/Users/divyambhagchandani/Downloads/14-04-fall-2006/14-04-fall-2006/START.htm",
+		"/Users/divyambhagchandani/Desktop/CP/qs.py",
+		"/Users/divyambhagchandani/Desktop/temp.cpp",
+		"/Users/divyambhagchandani/Downloads/[ www.Torrenting.com ] - The.Comedy.Central.Roast.of.James.Franco.2013.HDTV.x264-2HD/comedy-central-roast-of-james-franco-english-795055/The.Comedy.Central.Roast.of.James.Franco.720p.WEB-DL.AAC2.0.H.264-NTb.srt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/tic.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
