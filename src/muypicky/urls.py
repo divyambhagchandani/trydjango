@@ -16,12 +16,15 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.views.generic import TemplateView
+from django.contrib.auth.views import LoginView
+
+
 
 from restaurants.views import (
 	restaurant_listview,
 	RestaurantListView,
 	RestaurantDetailView,
-    restaurant_createview,
+    RestaurantCreateView
 	)
 
 urlpatterns = [
@@ -30,8 +33,9 @@ urlpatterns = [
     url(r'^about/$', TemplateView.as_view(template_name='about.html')),
     url(r'^contact/$', TemplateView.as_view(template_name='contact.html')),
     url(r'^restaurants/$', RestaurantListView.as_view()),
-    url(r'^restaurants/create/$',restaurant_createview),
+    url(r'^restaurants/create/$',RestaurantCreateView.as_view()),
     url(r'^restaurants/(?P<slug>[\w-]+)/$', RestaurantDetailView.as_view()),
+    url(r'^login/', LoginView.as_view(),name='login'),
     # url(r'^restaurants/(?P<slug>\w+)/$', RestaurantListView.as_view()),
     # url(r'^restaurants/indian$', IndianRestaurantListView.as_view()),
 

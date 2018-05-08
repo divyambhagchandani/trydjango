@@ -12,5 +12,6 @@ class RestaurantLocationCreateForm(forms.ModelForm):
 		'name',
 		'location',
 		'category',
+		'review'
 		]
 
