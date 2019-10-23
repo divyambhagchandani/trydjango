@@ -3,7 +3,8 @@ from django.shortcuts import render,get_object_or_404
 from django.views import View
 from django.views.generic import TemplateView, ListView, DetailView,CreateView
 from django.contrib.auth.decorators import login_required
-from django.contrib.auth.mixins import LoginRequiredMixin
+from django.contrib.auth.mixins import LoginRequiredMixin\
+import ramdom, urllib3
 
 from .models import RestaurantLocation
 from .forms import RestaurantCreateForms, RestaurantLocationCreateForm
@@ -55,6 +56,17 @@ class RestaurantCreateView(LoginRequiredMixin,CreateView):
 		instance.owner=self.request.user
 		# instance.save()
 		return super(RestaurantCreateView,self).form_valid(form)
+class classbasedvesw():
+	login_url='/login/'
+	form_class = RestaurantLocationCreateForm
+	template_name= 'restaurants/forms.html'
+	success_url="/restaurants/"
+	def form_valid(self, form):
+		instance=form.save(commit=False)
+		instance.owner=self.request.user
+		# instance.save()
+		return super(RestaurantCreateView,self).form_valid(form)
+	
 
 
 
